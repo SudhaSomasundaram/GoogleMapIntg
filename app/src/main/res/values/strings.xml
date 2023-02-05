@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GoogleMapIntg</string>
+    <string name="title_activity_maps">GoogleMapIntegration</string>
+</resources>
